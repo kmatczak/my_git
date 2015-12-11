@@ -1,7 +1,5 @@
 execute pathogen#infect()
 
-
-
 syntax on
 filetype plugin indent on
 set number
@@ -39,7 +37,7 @@ set foldmethod=syntax
 
 "set t_Co=256
 
-let NERTTreeShowHidden=1
+let NERDTreeShowHidden=1
 
 map <F3> :NERDTreeToggle<CR> 
 map <F4> :TagbarToggle<CR>
