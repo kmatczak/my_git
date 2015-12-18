@@ -36,7 +36,7 @@ set tags+=/home/mininet/tags
 set foldmethod=syntax
 
 
-"set t_Co=256
+set t_Co=256
 
 let NERDTreeShowHidden=1
 
