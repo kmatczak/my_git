@@ -21,9 +21,10 @@ set t_ut=
 
 set laststatus=2
 
-if has("gui_gtk2")
-    set guifont=DejaVu\ Sans\ Mono\ for\ Powerline\ 10
-endif
+"if has("gui_gtk2")
+   " set guifont=DejaVu\ Sans\ Mono\ for\ Powerline\ 10
+ set guifont=Ubuntu\ Mono\ derivative\ Powerline\ 11
+"endif
 
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1 "tabline enable
