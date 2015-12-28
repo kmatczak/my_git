@@ -33,6 +33,7 @@ let g:airline#extensions#tabline#fnamemod = ':t' "only file names in tabs
 set nocompatible
 set encoding=utf-8
 set tags+=/home/mininet/tags
+set tags+=/home/vagrant/.vim/poxtags
 set foldmethod=syntax
 
 
