@@ -5,15 +5,15 @@ filetype plugin indent on
 set number
 set noswapfile
 set expandtab
-set tabstop=4
-set shiftwidth=4
+set tabstop=3
+set shiftwidth=3
 set ignorecase
 set hlsearch
 set smartindent
 "set expandtab
 "set mouse=a
 set list
-set listchars+=trail:◦
+"set listchars+=trail:◦
 
 "hi SpecialKey guifg=Yellow ctermfg=darkgrey
 "syn match WhiteSpace "\s\+$" containedin=ALL conceal cchar=◦
